@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Tanya 👋
 
-<!--
-**tanya26raiu031-design/tanya26raiu031-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Robotics and AI Student
 
-Here are some ideas to get you started:
+I'm a curious learner interested in programming, robotics, artificial intelligence, and emerging technologies. I'm currently building my programming fundamentals and working towards creating practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills & Learning
+
+- Languages: Python, C
+- Interests: Robotics, AI, problem-solving
+- Currently learning: Programming fundamentals and project development
+
+🚀 Goals
+
+- Build practical projects
+- Improve my coding and problem-solving skills
+- Explore opportunities in robotics and AI
+
+📌 My GitHub Journey
+
+This profile is where I'll share my projects, experiments, and learning progress.
+
+Thanks for visiting! 😊
